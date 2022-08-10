@@ -1263,7 +1263,6 @@ body {
   #whitelist-button {
     width: initial;
     min-width: 40%;
-    margin-top: 5px;
     font-size: 2.5vh;
   }
 
@@ -1452,6 +1451,7 @@ body {
   }
 
   .rangediv {
+    display: none;
     margin-bottom: 10px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;

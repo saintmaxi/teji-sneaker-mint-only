@@ -263,7 +263,7 @@ const updateMintInfo = async () => {
         $("#quantity-controls").remove();
         $("#mint-button").remove();
         $("#whitelist-button").remove();
-        $("#right-pop-up > div.rangediv").remove();
+        $("#range-container").remove();
     }
 }
 
